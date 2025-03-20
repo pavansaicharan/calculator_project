@@ -1,3 +1,7 @@
+#Added a development branch to main branch and pull requests from development to main
+
+
+
 # Simple Calculator
 
 A basic command-line calculator application written in Python that performs fundamental arithmetic operations.
